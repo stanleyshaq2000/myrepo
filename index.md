@@ -1,3 +1,21 @@
-# My Repo
+---
+layout: default
+---
 
-Hello All!
+![avatar](avatar.jpg)
+
+# SC
+
+Software Developer
+
+- - -
+
+### about
+
+data visualization and inforgraphics site
+
+### Links
+
+ * [部落格](https://blog.infographics.tw)
+
+- - -
